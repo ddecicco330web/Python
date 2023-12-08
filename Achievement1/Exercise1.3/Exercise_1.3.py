@@ -41,6 +41,8 @@ for recipe in recipes_list:
     print("Difficulty: " + difficulty)
     print("")
 
+ingredients_list.sort()
+
 print("Ingredients Accross All Recipes: ")
 print("--------------------")
 for ingredient in ingredients_list:
