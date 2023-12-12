@@ -43,7 +43,7 @@ for recipe in recipes_list:
 
 ingredients_list.sort()
 
-print("Ingredients Accross All Recipes: ")
+print("Ingredients Across All Recipes: ")
 print("--------------------")
 for ingredient in ingredients_list:
     print(ingredient)
