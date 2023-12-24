@@ -44,6 +44,7 @@ class Recipe(object):
                 self.ingredients.append(ingredient)
         
         self.difficulty = self.calculate_difficulty()
+        self.update_all_ingredients()
     
     def search_ingredient(self, ingredient):
         if ingredient in self.ingredients:
