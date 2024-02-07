@@ -1,0 +1,26 @@
+Models from Task 2.3
+
+Ingredients
+	- name : char
+
+Recipes
+	- name : char
+	- cook_time : int
+	- description : text
+	
+
+RecipeIngredients
+	- recipe : foreign key
+	- ingredient : foreign key
+
+
+
+Model changes in Task 2.5
+
+Recipes
+	- pic : image
+	- instructions : text
+
+I added pictures to the recipes model to show an image of the dish.
+I added instructions because this will be used to explain how to make the dish.
+	
