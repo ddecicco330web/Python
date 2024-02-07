@@ -23,4 +23,10 @@ Recipes
 
 I added pictures to the recipes model to show an image of the dish.
 I added instructions because this will be used to explain how to make the dish.
+
+Frontend inspirations:
+https://github.com/sumin3/Recipe-Django-App
+
+I like this app's design because the design is simple and clean. For the welcome screen I like the white text over an image of some fresh food. For the list I like the cards with the image on top and text on the bottom.
+
 	
