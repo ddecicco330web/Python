@@ -46,10 +46,10 @@ def records(request):
 -	Look up the following three Django functions on Django’s official documentation and/or other trusted sources and write a brief description of each.
 
 <br>
-Function	Description<br>
-authenticate():<br>	
-authenticate() is used to verify credentials. If the username and password are valid, the function will return a User object. If the credentials are invalid, the function will return None.
-redirect():	<br>
-redirect() is used to navigate to another view. It returns an HTTPResponseRedirect. For the arguments, you can pass a model's get_absolute_url(), a view name, or an absolute or relative URL.
-include():	<br>
+<b>Function	Description</b><br>
+- <b>authenticate():</b><br>	
+authenticate() is used to verify credentials. If the username and password are valid, the function will return a User object. If the credentials are invalid, the function will return None.<br><br>
+- <b>redirect():</b>	<br>
+redirect() is used to navigate to another view. It returns an HTTPResponseRedirect. For the arguments, you can pass a model's get_absolute_url(), a view name, or an absolute or relative URL.<br><br>
+- <b>include():</b>	<br>
 include() is used within URL patterns to add other URL patterns from other modules. 
