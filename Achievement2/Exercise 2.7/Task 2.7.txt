@@ -1,0 +1,12 @@
+I think users would want to search for recipes, recipes with a certain ingredient, and the difficulty level.
+
+I think users will want to search for recipes for a certain ingredient because if they know they want chicken, they can look up all of the chicken recipes.
+
+I think users will want to search for the level of difficulty of recipes because they might look for dishes that are easy to make.
+
+Data Analysis:
+For the bar chart and the line chart, the x label is the name and the y label is the cook time.
+For the pie chart, the cook time is the label and the name is in the legend.
+
+Execution Flow:
+Home Page -> Loggin -> Recipes List -> All Recipes -> Search -> Look at charts -> Check Details -> Go Back -> Log out
